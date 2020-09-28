@@ -1,0 +1,58 @@
+[
+    {
+        "id": 1001,
+        "product": "🍎",
+        "name": "apple",
+        "price": 105,
+        "quantity": "1 kg"
+    },
+    {
+        "id": 1002,
+        "product": "🍊",
+        "name": "orange",
+        "price": 38,
+        "quantity": "1 kg"
+    },
+    {
+        "id": 1003,
+        "product": "🍉",
+        "name": "watermelon",
+        "price": 45,
+        "quantity": "1 kg"
+    },
+    {
+        "id": 1004,
+        "product": "🍇",
+        "name": "grapes",
+        "price": 98,
+        "quantity": "1 kg"
+    },
+    {
+        "id": 1005,
+        "product": "🍌",
+        "name": "banana",
+        "price": 52,
+        "quantity": "1 kg"
+    },
+    {
+        "id": 1006,
+        "product": "🍍",
+        "name": "pineapple",
+        "price": 70,
+        "quantity": "1 kg"
+    },
+    {
+        "id": 1007,
+        "product": "🍓",
+        "name": "strawberry",
+        "price": 140,
+        "quantity": "1 kg"
+    },
+    {
+        "id": 1008,
+        "product": "🥝",
+        "name": "kiwi",
+        "price": 180,
+        "quantity": "1 kg"
+    }
+]
